@@ -1,13 +1,15 @@
 {
+  "method": "I mostly just slowed down and looked properly at one painting, asking what it took for granted about the tools and habits of the people it was made for. Then I tested those thoughts with a small photo task that mixed art and tech.",
+  "related_work": "After the photography lecture I read a bit of Walter Benjamin's essay on mechanical reproduction. The part that stayed with me was his idea of the 'aura', that an original has a presence a copy never has. Photography, he says, gets rid of that aura and makes art reproducible and reachable for everyone. It fit really well with the painting we looked at.",
+  "references": "[1] Walter Benjamin. 1936. The Work of Art in the Age of Mechanical Reproduction. In Illuminations: Essays and Reflections, Hannah Arendt (ed.), Harry Zohn (trans.). Schocken Books, New York, 1968.",
+  "conclusion_future_work": "My takeaway is that old media are never really finished, they carry the assumptions of their time, and reading them is a way of reading history. I want to keep that habit of looking slowly in the weeks ahead.",
+  "date": "2026-09-25",
+  "results_discussion": "The thing I remember most is the old oil painting the tutor showed us. We were asked to think about the media technology behind it and what life was like back then, who could make it, who could see it, how slowly it travelled. One image ended up being a whole history of technology. The photography lecture and the photo task made the same point from the other side: every new medium changes what art is and who gets to have it.",
   "week": 1,
-  "title": "",
-  "date": "",
-  "introduction": "",
-  "related_work": "",
-  "method": "",
-  "results_discussion": "",
-  "conclusion_future_work": "",
-  "images": [],
-  "video": "",
-  "references": ""
+  "title": "Looking at an old painting",
+  "images": [
+    "assets/images/微信图片_20260929082427_47_2.jpg"
+  ],
+  "introduction": "First week of Ideas in Art & Tech started with a question rather than a task: what can an old artwork tell us about the technology and the time it came from? We went through the outline, sat through a lecture on photography as an art form, and then did a task that mixed photography, art and technology. More fun than I expected.",
+  "video": ""
 }

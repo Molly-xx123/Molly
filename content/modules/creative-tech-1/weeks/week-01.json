@@ -1,13 +1,18 @@
 {
+  "method": "This week I mostly asked for help instead of struggling alone. I used AI for quick answers and a computer engineer friend for the kind of thing a search result never quite explains. Much faster than banging my head against the keyboard.",
+  "related_work": "Before I touched anything I looked into what creative coding is actually about. Reas and Fry's Processing book makes the point that code is just another way to sketch and think, not only for shipping software. That helped me stop trying to get everything perfect on day one.",
+  "references": "[1] Casey Reas and Ben Fry. 2007. Processing: A Programming Handbook for Visual Designers and Artists. MIT Press, Cambridge, MA.",
+  "conclusion_future_work": "Main thing I'm taking away: when something breaks, check the simple stuff first, like which folder you're actually in. Next week I want to get on with making things properly instead of fighting my laptop.",
+  "date": "2026-09-25",
+  "results_discussion": "The big drama of the week was installing the software. npm kept throwing errors and VS Code wouldn't install at all. I asked an AI and a computer engineer friend, and it turned out my working directory was wrong, so npm was looking for a package.json in a folder that didn't exist. Once I moved to the right directory, everything installed fine. A whole afternoon lost to a path I hadn't checked. Annoying. On the making side, I did a portrait of a classmate, and I sketched some electronic components after taking a few things apart. I put the sketches into TouchDesigner and added gesture interaction so they move around.",
   "week": 1,
-  "title": "",
-  "date": "",
-  "introduction": "",
-  "related_work": "",
-  "method": "",
-  "results_discussion": "",
-  "conclusion_future_work": "",
-  "images": [],
-  "video": "",
-  "references": ""
+  "title": "Setting things up (and the missing folder)",
+  "images": [
+    "assets/images/微信图片_20260929082428_48_2.jpg",
+    "assets/images/屏幕截图-2026-09-29-082659.png",
+    "assets/images/微信图片_20260929082427_47_2.jpg",
+    "assets/images/屏幕截图-2026-09-29-073509.png"
+  ],
+  "introduction": "Week one of Creative Tech 1 was mostly about getting things working rather than writing any real code. We went through the module outline, then got straight into some hands-on work. It looked like a soft start, but there was already a lot to sort out.",
+  "video": ""
 }
