@@ -1,13 +1,17 @@
 {
+  "method": "On the project side, the method was straightforward: present the work, listen, and write down what people said before we got defensive about it. On the technical side, the method was to follow along in Blender, try to make something simple, and watch it come out wrong in a way I then had to fix. For the dance idea, the method was the opposite of deciding — gather first: watch, collect references, and ask questions, before locking anything down.",
+  "related_work": "The presentation was the first time we had shown the reworked project outside the group, and the feedback was mostly encouraging. The clearest note was visual: our colour palette felt too dark or heavy, and people suggested we lift it and make the image brighter. That is a small, concrete change, which is exactly the kind of feedback I can act on.\n\nThe technical class introduced two new tools. Blender is a free, open-source 3D program for modelling, sculpting, animation and rendering, and Python is the scripting language it uses (and a general-purpose language beyond it). The two sit together: in Blender you can model by hand, or you can drive things with Python scripts. It is a completely different world from the p5.js and ml5.js we have been using — three-dimensional, and much less forgiving.\n\nSeparately, I started a conversation with a friend in China who is doing a postgraduate degree in dance, and we decided to make something that combines dance with projection or video interaction. We have not settled the form or the theme yet. Right now the work is just research: I watched a large number of videos of dance-and-projection pieces, and I brought it to Boyd, who talked me through other artists working in this direction.",
+  "references": "",
+  "conclusion_future_work": "My takeaways are three. First, act on the feedback: brighten the palette and see if the project reads the way we want it to. Second, treat Blender as a longer investment — I am not going to be good at it quickly, and that is fine; I want to keep coming back to it with Python, because scripting a model instead of dragging it by hand feels closer to the way I already like to work. Third, keep researching the dance-and-projection piece with my friend and try to settle on a form and a theme we can both commit to",
+  "date": "2026-11-06",
+  "results_discussion": "The presentation itself felt like a milestone — we finally had a version of the project we were not embarrassed to show, even though it is still rough. The colour feedback landed with me because it is true: the palette we chose reads darker than the mood we want, and brightening it is an easy win rather than a whole redesign.\n\nBlender was the most mixed experience of the term so far. I can see why people love it — it can do almost anything, and the moment you get a shape to do what you want feels great. But the interface is deep, the shortcuts are not obvious, and I kept losing track of what I had selected or where I was in 3D space. Honestly, most of what I made was ugly — laughably ugly. The 'haha' is real: I would sculpt something, orbit the camera, and immediately want to delete it. I am not discouraged by it, though. It just means Blender has a steeper first hill than the web tools we started with, and I have not reached the top yet.\n\nThe dance-and-projection idea is still a fog, but it is an exciting fog. What draws me is that it sits exactly between the two things I keep circling: movement and the screen. I do not have a theme yet, which feels strange after last week's lesson about needing something specific to say — but this time I am deliberately letting the material lead first, watching what other artists have done before I decide what mine should say.",
   "week": 7,
-  "title": "",
-  "date": "",
-  "introduction": "",
-  "related_work": "",
-  "method": "",
-  "results_discussion": "",
-  "conclusion_future_work": "",
-  "images": [],
-  "video": "",
-  "references": ""
+  "title": "A presentation, brighter colours, and Blender",
+  "images": [
+    "assets/images/46930d1d3a424822a8be5d19341cd0a4.png",
+    "assets/images/83506d48670748d8203a23b179f6fa8f.png",
+    "assets/images/bc2b24104447f4f1620649ae30ba6444.png"
+  ],
+  "introduction": "This week the group presented our project and came away with feedback we can actually use, the most concrete being that the colours might need to be brighter. In the technical class we moved into Blender and Python. Blender was genuinely interesting, but it also fought me — everything I made kept turning out ugly, in the funniest way. Outside the course, a new collaboration also began: I agreed with a dancer friend in China to try making a piece that combines dance with projection or video interaction.",
+  "video": ""
 }

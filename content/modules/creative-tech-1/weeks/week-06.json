@@ -1,13 +1,15 @@
 {
+  "method": "For the project, the method was simple and painful: delete the old idea, go back to the beginning, and ask what we actually wanted to say. That question, rather than what we wanted to build, is what produced the new theme. For the tech class, we worked through the ml5.js examples, loading a pre-trained model in the browser and wiring it into a p5.js sketch to see how little code it takes to get something like pose or hand tracking running.",
+  "related_work": "The project turn is worth being honest about. We had an idea, but the deeper we pushed into it the more surface-level it felt — the body of the piece did not carry much weight. When we showed it to other people, their feedback confirmed it: they said they could not understand what our game was doing. So we threw away everything we had and re-decided the theme from scratch. The new one is a statement rather than a style: forcing your idea of 'good' onto someone else is arrogant. It gives us something clear to argue for and against.\n\nOn the technical side, Alice walked us through ml5.js. It is a JavaScript library for machine learning that is built to work with p5.js, so it fits naturally into the creative coding we have been doing all term. It wraps larger models — image classification, pose and hand tracking, style transfer and so on — behind a simple API, which means you can run machine learning in the browser without training anything yourself.",
+  "references": "",
+  "conclusion_future_work": "My takeaway is that starting over is not a step backwards — a clear theme is worth more than a polished but empty game, and I would rather build something that says a specific thing than something that just looks finished. On the tools side, ml5.js is now on my list to use properly, most likely for a pose or hand-tracking interaction. The next step for the group is to turn the new theme into an actual experience without losing the point of it.",
+  "date": "2026-10-30",
+  "results_discussion": "What I learned from the project is that a vague theme hides behind fancy execution, and people can feel it even when you cannot. The feedback — 'we can't tell what the game is doing' — was not a failure of the interface, it was a failure of the idea, and hearing it out loud let us finally admit that. Starting over felt like a loss at first, but the new theme is a relief because it is something I can actually defend: imposing your version of good on another person is arrogance. That is a position, not a mood.\n\nml5.js surprised me by how accessible it makes machine learning. I had assumed ML meant training, datasets and long waits, but ml5.js is designed for artists: load a model, point it at a camera or an image, and get a result. Because it sits on p5.js, it feels like a natural extension of everything we have already been doing, and it connects directly to the gesture and body-based interaction I have been interested in since Project 0.",
   "week": 6,
-  "title": "",
-  "date": "",
-  "introduction": "",
-  "related_work": "",
-  "method": "",
-  "results_discussion": "",
-  "conclusion_future_work": "",
-  "images": [],
-  "video": "",
-  "references": ""
+  "title": "Starting over, and machine learning in the browser",
+  "images": [
+    "assets/images/3cbae3bb0a663d611e44fd04b980934b.png"
+  ],
+  "introduction": "This week was split between a decision and a new tool. In the group we made the call to abandon the game idea we had been carrying, because its core felt superficial and nobody outside the group could tell what it was actually doing. We started again and landed on a much sharper theme: that forcing on someone else what you believe is good for them is a kind of arrogance. In the technical class, Alice introduced ml5.js, a machine learning library that sits on top of p5.js.",
+  "video": ""
 }
