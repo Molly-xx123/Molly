@@ -1,13 +1,15 @@
 {
+  "method": "For the sculpture we took apart a handwriting tablet and a keyboard and rebuilt the parts into a new object, deciding together how the pieces should sit. At Bath Abbey I stopped making and just looked — at the stone, the light, and the way the building is organised around a single idea.",
+  "related_work": "The morning was about 3D scanning and how it turns an object into data. A scanner measures the surface of something — usually with light, lasers or photographs — and produces a point cloud: millions of individual points in 3D space, each carrying a position and often a colour. Those points are then connected into a mesh of triangles, which is what every 3D model is underneath. What I find most interesting is how different a point cloud is from a photograph: a photograph flattens an object into a single view, but a point cloud keeps its depth, so you can orbit it and look at it from any angle. That is why scanning turns up everywhere, from film and games to archaeology, medicine and heritage. It also felt close to my own project, because a point cloud is another way of turning something physical into data — the same gesture as the sprite sheets and sensors I have been working with, just in three dimensions.\n\nIn the afternoon we worked with Paul Granjon, an artist who has spent years building machines and robots out of discarded electronics and who treats broken devices as raw material instead of rubbish. Together we co-built an e-waste sculpture. The next day, Bath Abbey was the quiet opposite: a medieval building of stone, light and carved detail, where one space has carried meaning for hundreds of years.",
+  "references": "",
+  "conclusion_future_work": "My takeaway is that scanning is a technique I want to come back to — I can see myself using 3D scanning and point clouds in a later project, and it fits naturally with the way I already like turning physical things into data. The e-waste sculpture confirmed how much I enjoy working hands-on with real materials, and Bath Abbey has planted an idea I did not expect: a project around religious or sacred space. I want to keep that thread open and see where it leads.",
+  "date": "2026-10-16",
+  "results_discussion": "The e-waste sculpture was the most fun part of the workshop. There is something satisfying about unscrewing a device, seeing what is really inside it, and then giving those parts a second life in a new form — it made the 'hidden costs' of my Digital Archaeology project physical instead of abstract. The evening e-waste debate was the opposite for me: I found it hard to follow and a little boring, mainly because I could not fully understand what was being argued. The trip to the local pub afterwards was a welcome break, and a chance to experience a bit of everyday Bristol culture rather than only the workshop. Bath Abbey surprised me most. I learned a great deal about how the building works and what it has meant over centuries, and it has started me thinking that I might want to make religious or sacred-themed work at some point, using the same mix of technology and material I have been exploring.",
   "week": 4,
-  "title": "",
-  "date": "",
-  "introduction": "",
-  "related_work": "",
-  "method": "",
-  "results_discussion": "",
-  "conclusion_future_work": "",
-  "images": [],
-  "video": "",
-  "references": ""
+  "title": "Point clouds, an e-waste sculpture, and Bath Abbey",
+  "images": [
+    "assets/images/屏幕截图-2026-10-20-181912.png"
+  ],
+  "introduction": "This week we travelled to Bristol for a two-day workshop, and it turned out to be a week of very different kinds of material. On the first day we learned about 3D scanning and point clouds, spent the afternoon co-building an e-waste sculpture with the artist Paul Granjon, and closed the evening with an e-waste debate and a visit to a local pub. On the second day we went to Bath Abbey, which ended up being the part I have been thinking about most.",
+  "video": ""
 }

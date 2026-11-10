@@ -94,6 +94,10 @@ main#content {
   margin-bottom: 0.3rem;
 }
 
+.acm-section p {
+  white-space: pre-line;
+}
+
 .media-gallery {
   display: flex;
   flex-wrap: wrap;

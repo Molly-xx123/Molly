@@ -1,13 +1,21 @@
 {
+  "method": "The plan was to make sprite sheets digitally, but that is where I got stuck. I did not really know how to build them — how to draw each frame, keep the movement consistent, and assemble it all so it loops. With Boyd's help I realised I did not have to make a digital version at all. I switched to paper: I cut the shapes out of paper, arranged them, and photographed each small change to capture the movement frame by frame. That hand-made, stop-motion route is how my sprite sheets actually came together.",
+  "related_work": "Water Body, by Marshmallow Laser Feast, is a site-specific installation at St Martin-in-the-Fields, shown as part of the London Film Festival's Expanded strand. You are handed a small ceramic cup of water, then lie back in the dark while narration by Robert Macfarlane and a composition by James Bulley move around you; the piece renders real Earth-systems datasets in real time, compressing a year of planetary water movement into about ten seconds. Solwata, by Felix Gaedtke and Gayatri Parameswaran of NowHere Media, is a twenty-five-minute mixed-reality documentary about the Solomon Islands, where rising seas are forcing communities to consider relocation. 'Solwata' means saltwater in Pijin, and the piece blends 360-degree video, 3D scanning and spatial audio with physical objects you can touch, so the water rises around you as you move through it. Alongside these we tried an interactive game and spent time with an AI tool for generating imagery, which gave me a very different feeling from the two installations. The making for the week was sprite sheets: I was learning the idea of breaking a movement into a sequence of frames and playing them back in a loop, the same principle behind stop-motion animation.",
+  "references": "BFI London Film Festival (2026) Water Body. Available at: https://whatson.bfi.org.uk/lff/Online/default.asp?BOparam::WScontent::loadArticle::permalink=water-body-lff26 (Accessed: 20 October 2026).\nStrand Magazine (2026) 'London Film Festival Expanded 2026 Review: Water Body'. Available at: https://www.strandmagazine.co.uk/single-post/london-film-festival-expanded-2026-review-water-body (Accessed: 20 October 2026).\nLa Biennale di Venezia (2026) Solwata. Available at: https://www.labiennale.org/en/cinema/2026/venice-immersive/solwata (Accessed: 20 October 2026).\nTavuli News (2026) 'From Malaita's Climate Frontlines to Venice: The Story of Solwata'. Available at: https://www.tavulinews.com.sb/solwata-malaita-climate-displacement-venice/ (Accessed: 20 October 2026).",
+  "conclusion_future_work": "My takeaway is that getting stuck was the useful part, because it pushed me off the screen and into materials I had never worked with. Immersion and animation are both about pacing, attention and giving the body something to do, and now I can see that the material itself is part of that. For the rest of Project 0 I want to keep following that thread, and I am genuinely excited to try other hand-made materials — wood, ceramic, clay — in later work, rather than reaching for the screen first.",
+  "date": "2026-10-09",
+  "results_discussion": "What stayed with me from Water Body was the gap between the scale of the data and the scale of my body: a year of planetary water movement condensed into ten seconds, while I lay there holding a cup of water. It made something abstract feel bodily. Solwata hit differently. Because I could reach into the water and hold objects, the climate crisis stopped being a number and became something happening to specific people and places. The game and the AI tool sat in another register again. The game made me think about rules and feedback, how a system can quietly steer you through it, and the AI tool felt fast and effortless in a way that, honestly, made me appreciate the slow hand-made work even more: generating an image in seconds shows what AI is good at, but it also reminded me of what it does not leave behind, which is the physical trace of your hands.\n\nThe real turn for me was the sprite sheets. At the start I did not know how to make them, and that feeling of being stuck mattered. Boyd's suggestion to try paper instead of pixels changed everything. Cutting the shapes out, moving them a little, and photographing each step turned out to be the clearest possible way to understand what an animation is: not one moving image, but a long, careful sequence of separate moments. What surprised me most was how much I loved the materials themselves. I had never used paper-cutting to make a piece before, and it opened a door I did not know was there. If paper can do this, so can other hand-made materials — wood, ceramic, clay. I left the week thinking less about what the software can do and more about what my hands can do.",
   "week": 3,
-  "title": "",
-  "date": "",
-  "introduction": "",
-  "related_work": "",
-  "method": "",
-  "results_discussion": "",
-  "conclusion_future_work": "",
-  "images": [],
-  "video": "",
-  "references": ""
+  "title": "Water Body, Solwata, and my first sprite sheets",
+  "images": [
+    "assets/images/微信图片_20261020175536_173_2.jpg",
+    "assets/images/微信图片_20261020175535_172_2.jpg",
+    "assets/images/微信图片_20261020180111_186_2.png",
+    "assets/images/微信图片_20261020175535_172_2.jpg",
+    "assets/images/微信图片_20261020175533_171_2.jpg",
+    "assets/images/微信图片_20261020175531_169_2.jpg",
+    "assets/images/waterbody.jpg"
+  ],
+  "introduction": "This week we went out of the studio and up to London, where we saw two very different kinds of immersive work and quite a bit more besides. The first was Water Body, a lying-down audiovisual installation about the movement of water; the second was Solwata, a virtual reality documentary about climate displacement in the Solomon Islands. Around them we also tried an interactive game and experimented with AI tools for making. Back at the desk, Project 0 got properly started — and that is where the real story of my week is, because my first attempt at making sprite sheets did not go the way I expected.",
+  "video": ""
 }

@@ -1,3 +1,32 @@
 {
-  "projects": []
+  "projects": [
+    {
+      "title": "moodboard",
+      "description": "This moodboard explores the idea of Digital Archaeology, examining what remains after technological convenience. Inspired by old computer interfaces, pixel graphics, technical diagrams, and electronic waste, it combines nostalgic digital aesthetics with themes of hidden infrastructure and consumption.",
+      "images": [
+        "assets/images/微信图片_20261006202315_66_2.png",
+        "assets/images/微信图片_20261006202455_68_2.png"
+      ],
+      "link": "http://127.0.0.1:5500/ct1-week2-more-html-css-and-intro-to-js/moodboard.html"
+    },
+    {
+      "title": "Sprite sheets",
+      "description": "For Project 0 I made sprite sheets by hand rather than on screen. I cut the shapes out of paper, shifted them a little at a time, and photographed every small change, so a sequence of stills became a looping animation. Getting stuck on the digital version pushed me here, and it turned out to be the best thing that happened: I learned that animation is not one moving image but a long, careful series of separate frames, and it was the first time I had made a piece from physical materials rather than pixels.",
+      "images": [
+        "assets/images/微信图片_20261020180111_186_2.png"
+      ],
+      "link": ""
+    },
+    {
+      "title": "Page design",
+      "description": "I completed Project 0, Digital Archaeology — a website about a discarded smartwatch and the hidden costs inside it. The main interaction is gesture recognition, so you move through the site with your hands rather than a mouse or keyboard. I used an archaeological palette, a monospaced retro-interface voice, and layers of gridlines, scratches and grain to make every screen feel like an excavated artefact, with the dig site, the moodboard and the frame-by-frame animations all sitting inside one visual world.",
+      "images": [
+        "assets/images/屏幕截图-2026-10-20-182000.png",
+        "assets/images/屏幕截图-2026-10-20-181946.png",
+        "assets/images/屏幕截图-2026-10-20-181912.png",
+        "assets/images/屏幕截图-2026-10-20-181933.png"
+      ],
+      "link": "https://molly-xx123.github.io/project0/"
+    }
+  ]
 }
