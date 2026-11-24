@@ -1,9 +1,9 @@
 {
   "week": 8,
-  "title": "",
-  "date": "",
-  "introduction": "",
-  "related_work": "",
+  "title": "Project design, research questions, and feedback",
+  "date": "2026-11-12",
+  "introduction": "This week was a project design and methods seminar. Five of us presented our project ideas, then discussed research methods, research questions, and the concrete steps for each, with feedback from the group.",
+  "related_work": "Three points came out of the methods discussion. A research method needs to be specific — market research, industry research, user interviews — rather than the loose word 'method' on its own. A research question should be specific, feasible, and fill a gap in what is already known; an early personal question, like 'what counts as a physical robot', is only a starting point to be refined into something both specific and large enough to carry the whole project. And a project needs a clear procedure — idea, research, prototype, testing, iteration — as a closed loop rather than a straight line.\n\nFor my interactive projection installation, the feedback was that the concept is strong, working between the body and technology, but the loose idea now has to become a concrete research question. There is also the practical side: how to recruit dancers and collaborate with them, and how to keep the research rigorous.",
   "method": "",
   "results_discussion": "",
   "conclusion_future_work": "",

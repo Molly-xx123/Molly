@@ -1,13 +1,18 @@
 {
   "week": 9,
-  "title": "",
-  "date": "",
-  "introduction": "",
-  "related_work": "",
-  "method": "",
-  "results_discussion": "",
-  "conclusion_future_work": "",
-  "images": [],
+  "title": "Projection",
+  "date": "2026-11-24T10:00:00.000+08:00",
+  "introduction": "In Week 9, we covered the basics of Arduino. Although I had used it before, I still learnt a few new things. I also started thinking about exploring the relationship between people and nature in my project. It’s still an early idea, and it may change as the project develops.\n\nThis week, I also went to London to see the stage production of *Paranormal Activity*. I really enjoyed the story, but what interested me most was how the stage effects worked. Afterwards, I looked into how some of the effects were created. It gave me a new appreciation for the skill of the prop makers and stage crew.\n\nOur session on projection made me realise that a creative idea can sometimes matter more than the technology behind it. Looking back, I think I’ve spent so much time practising technical skills that I haven’t given myself enough time to explore ideas.\n\nI also saw projections on a tower in Southampton and on Winchester Cathedral. What caught my eye was how the animations created a sense of depth on the surfaces of the buildings, making the images appear three-dimensional. I’d like to keep experimenting with projection and explore how I could use this effect in my own project",
+  "related_work": "This week's main tool was the Arduino, and the class went through the basics. I had used one before, so the useful part was not blinking an LED for the first time but the smaller things I had never been forced to learn properly — the details you skip when you are rushing to make something work. Even a tool I thought I already knew turned out to have gaps once I slowed down and went through it carefully.\n\nThe references that mattered this week were not in the classroom. In London I saw *Paranormal Activity*, and once the story was done I could not stop thinking about the machinery underneath it — how a door moves on its own, how a prop behaves as if it were possessed. Looking into it afterwards showed me that a stage effect is rarely one grand trick; it is a pile of small, invisible mechanisms working together, and most of the credit belongs to the prop makers and stage crew whose names nobody reads. That is a kind of engineering I had never taken seriously before.\n\nThe third reference was the projections: on the tower in Southampton and on Winchester Cathedral, light was thrown onto buildings and made to look as if it had depth, with animations moving in three dimensions across surfaces that are completely flat. It is the same illusion as the stage, done with light instead of machinery, and it is the one I want to learn.",
+  "method": "My method this week was to stop making and start looking. Instead of opening a tool and building something, I treated the play and the two projections as things to reverse-engineer — watch the effect, then work backwards to what must be causing it. The aim was to collect ideas before deciding which ones to carry into my own project.",
+  "results_discussion": "The clearest result of the week is a shift in how I judge my own work. The projection session forced something into the open that I have been avoiding: a good idea matters more than the technique behind it, and I have spent so long practising technique that I have not given the ideas enough room. Writing that down is uncomfortable, which is exactly why it is the most important thing I learnt.\n\nThe two projections made the same point from the other side. The depth and the 3D effect I kept staring at is not a secret piece of technology; it is animation and light, used well. What impressed me was not the gear but the decision to make a flat building read as deep — an idea, not a technique, and that is the part I want to borrow.\n\nThere is also the beginning of a new direction: the relationship between people and nature. It is only a seed and I expect it to change, but it gives the projection work somewhere to aim, which it did not have before.",
+  "conclusion_future_work": "My takeaway is to rebalance. I will keep learning the technical side, but treat it as a means rather than the point, and give the ideas the time they have been missing. Next I want to work out how the architectural projections achieve their depth and 3D effect, and start shaping the people-and-nature idea into something I can build. If the idea changes later, that is fine — the point is to keep having them.",
+  "images": [
+    "assets/images/微信图片_20261124093639_314_2.jpg",
+    "assets/images/微信图片_20261124093638_313_2.jpg",
+    "assets/images/微信图片_20261124093636_312_2.jpg",
+    "assets/images/微信图片_20261124093634_310_2.jpg"
+  ],
   "video": "",
   "references": ""
 }

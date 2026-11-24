@@ -1,13 +1,16 @@
 {
   "week": 8,
-  "title": "",
-  "date": "",
-  "introduction": "",
-  "related_work": "",
-  "method": "",
-  "results_discussion": "",
-  "conclusion_future_work": "",
-  "images": [],
+  "title": "TouchDesigner, a lecture on XR, and a window",
+  "date": "2026-11-13T00:00:00.000+08:00",
+  "introduction": "This week's technical class covered projection and TouchDesigner. Both were familiar ground, so instead of sitting through the basics I used the time to push further on my own. The part of the week that changed things was a lecture by artists working in VR and XR, which arrived at exactly the right moment: I have been stuck deciding whether the dance-and-projection piece I am planning should be projection or VR/AR. After the talk I asked one of the artists, and the answer unblocked me — instead of choosing, I am going to try both and see which one actually works. My partner and I also settled the theme this week: window.",
+  "related_work": "Projection mapping and TouchDesigner were this week's technical topics. TouchDesigner is a node-based tool for real-time visuals — projection, generative graphics, and interactive installations — and it is exactly the kind of tool I have been circling for the dance project. Because the basics were not new to me, I treated the class as a chance to move past the introductory examples and go deeper on my own, toward the interactive, real-time setups I will actually need rather than stopping where the lesson stopped.\n\nThe lecture was the event that moved me most. A group of artists talked about their work in VR and XR — what these media do well, where they still fall short, and how they think about placing a viewer inside an experience rather than in front of one. It was concrete in a way my own reading has not been, and I came away with a much sharper sense of both the possibilities and the costs of each approach.\n\nIt mattered immediately, because I have been stuck on a real decision for the dance-and-projection project: should the piece be projection, or should it be VR or AR? I could argue both ways forever and never land. After the talk I asked one of the artists directly, and their answer was freeing — stop trying to choose from the outside, and instead build a small version of each and let the work tell me which one serves the idea better. So the plan is now to try both. On the same day, my partner and I finally settled the theme: window.",
+  "method": "The method this week was the opposite of last week's. Last week I was deliberately gathering references before deciding; this week I committed. Rather than weighing projection against VR/AR in the abstract, I turned it into an experiment — build a small version of each, compare, and only then choose. The theme came from the same push to stop circling and land on something.",
+  "results_discussion": "Going deeper on my own was the right call. The class content was a useful reminder, but the moment I moved past it I hit questions I could not answer straight away, and that is where the learning actually happened. It also confirmed something I have felt for a few weeks now: I learn fastest when the example is connected to a project I care about, rather than an exercise for its own sake.\n\nThe lecture was the surprise of the week. I went in expecting to hear about VR and XR as separate, future-facing tools, and instead the through-line was that none of these media is automatically the right one — what matters is what you want the viewer to feel, and the medium follows from that. That reframing is exactly what unblocked my project. And the relief of finally settling the theme with my partner is hard to overstate: after weeks of the idea staying foggy, it now has a name and a centre.",
+  "conclusion_future_work": "My takeaways this week are three. First, when class content is familiar, the value is in going further on my own rather than coasting. Second, the projection-versus-VR/AR question was never a decision to make in advance — it is an experiment to run, so I will stop trying to choose and start building. Third, the project now has a theme, window, and that turns it from a vague collaboration into something we can actually start making. The next step is small prototypes of each approach, and then an honest look at which one the window idea belongs to.",
+  "images": [
+    "assets/images/微信图片_20261124092416_308_2.jpg",
+    "assets/images/微信图片_20261124092417_309_2.jpg"
+  ],
   "video": "",
   "references": ""
 }
